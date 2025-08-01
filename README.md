@@ -15,5 +15,4 @@ This is a beginner-friendly **Python terminal application** that helps users dis
 - 💼 Get best-matching careers
 - 📚 See which skills you need to learn
 - 🔢 View your match percentage
-- 💾 Option to save suggestions to a `.txt` file
-- 🧠 Built using only core Python (great for beginners)
+  
